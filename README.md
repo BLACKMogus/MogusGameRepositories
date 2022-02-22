@@ -11,9 +11,9 @@ THE-GAME：
 
 缺点：尽管是自由输入，但是是基于条件分支的方式，有些地方还是不够自由，希望以后有机会通过NLP的技术实现自由的对话效果
 
-![1](https://github.com/BLACKMogus/MogusGameRepositories/blob/main/APK/THE-GAME/1.jpg?raw=true)
-![2](https://github.com/BLACKMogus/MogusGameRepositories/blob/main/APK/THE-GAME/2.jpg?raw=true)
-![3](https://github.com/BLACKMogus/MogusGameRepositories/blob/main/APK/THE-GAME/3.jpg?raw=true)
+![1](https://github.com/BLACKMogus/MogusGameRepositories/blob/main/%E5%AE%89%E8%A3%85%E5%8C%85%E5%92%8C%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/THE-GAME/1.jpg?raw=true)
+![2](https://github.com/BLACKMogus/MogusGameRepositories/blob/main/%E5%AE%89%E8%A3%85%E5%8C%85%E5%92%8C%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/THE-GAME/2.jpg?raw=true)
+![3](https://github.com/BLACKMogus/MogusGameRepositories/blob/main/%E5%AE%89%E8%A3%85%E5%8C%85%E5%92%8C%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/THE-GAME/3.jpg?raw=true)
 
 
 WhatToEat（干饭之魂）：
@@ -22,7 +22,7 @@ WhatToEat（干饭之魂）：
 
 缺点：后来发现根本用不上
 
-![11](https://github.com/BLACKMogus/MogusGameRepositories/blob/main/APK/WhatToEat/11.png?raw=true)
+![11](https://github.com/BLACKMogus/MogusGameRepositories/blob/main/%E5%AE%89%E8%A3%85%E5%8C%85%E5%92%8C%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/WhatToEat/11.png?raw=true)
 
 CardGame：
 一个参考王权（reigns）和月圆之夜的卡牌游戏，本来我是想卡牌左右划的时候有不同的效果，后来做到一半发现已经有这样一个游戏了，叫星陨传说，于是兴致全无，就成了个半成品
