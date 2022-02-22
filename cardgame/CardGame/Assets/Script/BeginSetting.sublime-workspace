@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mag",
+				"margin.top"
+			],
+			[
+				"ex",
+				"example.csv"
+			],
+			[
+				"fade",
+				"fadeIn〔function〕"
+			],
+			[
+				"setint",
+				"setInterval〔function〕"
+			],
+			[
+				"bgco",
+				"background-color"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"wri",
+				"write"
+			],
+			[
+				"midd",
+				"middle"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"mar",
+				"marker-mid"
+			],
+			[
+				"textal",
+				"text-align: 〔property〕"
+			],
+			[
+				"al",
+				"align"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"bg",
+				"bgcolor"
+			],
+			[
+				"imagep",
+				"imagepng〔function〕"
+			],
+			[
+				"head",
+				"header〔function〕"
+			],
+			[
+				"fopen",
+				"fopen"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"deco",
+				"text-decoration-line"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ho",
+				"homework2"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"trans",
+				"transition-duration"
+			],
+			[
+				"tran",
+				"transition-delay"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"class",
+				"class1"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fra",
+				"frame\tTag"
+			],
+			[
+				"frame",
+				"frameset\tTag"
+			],
+			[
+				"col",
+				"colm\tcolumns"
+			],
+			[
+				"home",
+				"homework"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"last_filter": "view",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/EventManager/Listener/MouseListener.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/EventManager/Listener/DragPictureListener.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/EventManager/Listener/DragListener.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/EventManager/Handler/ClickHandler.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/EventManager/Handler/DragPictureHandler.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/EventManager/Handler/EventHandler.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/EventManager/Events/Events.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/UI/GetPicModel.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/ClearControl.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/Camera Controller/Scripts/MainCamera.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/Essentials/TrBox.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/Essentials/TrTrasnform.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/Essentials/TrBlock.cs",
+		"/F/github repository/麻将AI/麻将AI2/Assets/Script/AI.cs",
+		"/C/Users/black mogus/Desktop/关爱计划/Historical-ranking-data-visualization-based-on-d3.js-master/src/bargraph.html",
+		"/C/Users/black mogus/Desktop/关爱计划/动态图表制作工具/dist/bargraph.html",
+		"/C/Users/black mogus/Desktop/index.html",
+		"/C/Users/black mogus/Desktop/关爱计划/动态图表制作工具/webpack.config.js",
+		"/C/Users/black mogus/Desktop/关爱计划/222/src/bargraph.html",
+		"/C/Users/black mogus/Desktop/关爱计划/Historical-ranking-data-visualization-based-on-d3.js-master/src/config.js",
+		"/C/Users/black mogus/Desktop/关爱计划/Historical-ranking-data-visualization-based-on-d3.js-master/src/visual.js",
+		"/C/Users/black mogus/Desktop/关爱计划/Historical-ranking-data-visualization-based-on-d3.js-master/src/stylesheet.css",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/MapLoader/MapLoader.cs",
+		"/F/github repository/sqltest/sqltest/Assets/script/ConnectMysql.cs",
+		"/F/github repository/sqltest/sqltest/Assets/script/point.cs",
+		"/F/github repository/sqltest/sqltest/Assets/script/searchmove.cs",
+		"/F/github repository/sqltest/sqltest/Assets/script/searchtype.cs",
+		"/D/论坛网站/WebSite1/.vs/config/applicationhost.config",
+		"/D/论坛网站/WebSite1/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.map",
+		"/C/Users/black mogus/Desktop/毕业设计/跑团联盟 – TRPG跑团者社区.html",
+		"/C/Users/black mogus/Desktop/毕业设计/跑团联盟 – TRPG跑团者社区_files/mantranews.css",
+		"/C/Users/black mogus/Desktop/毕业设计/jquery.js.下载",
+		"/C/Users/black mogus/Desktop/毕业设计/网页/mstp_35_knowledge/css/green-skin5152.css",
+		"/C/Users/black mogus/Desktop/毕业设计/跑团联盟 – TRPG跑团者社区_files/admin-bar.min.css",
+		"/C/Users/black mogus/Desktop/毕业设计/跑团联盟 – TRPG跑团者社区_files/font-awesome.min.css",
+		"/C/Users/black mogus/Desktop/毕业设计/wp-emoji-release.min.js.下载",
+		"/C/Users/black mogus/Desktop/毕业设计/跑团联盟 – TRPG跑团者社区_files/css",
+		"/C/Users/black mogus/Desktop/毕业设计/跑团联盟 – TRPG跑团者社区_files/sticky-setting.js.下载",
+		"/C/Users/black mogus/Desktop/毕业设计/网页/trpg跑团网页/电竞网页/index.html",
+		"/C/Users/black mogus/Desktop/毕业设计/网页/trpg跑团网页/新建文件夹/View/index.html",
+		"/C/Users/black mogus/Desktop/python/头像生成/DCGAN-tensorflow-master/download.py",
+		"/C/Users/black mogus/Desktop/python/头像生成/DCGAN-tensorflow-master/README.md",
+		"/C/Users/black mogus/Desktop/python/头像生成/DCGAN-tensorflow-master/model.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/deepmusic/composer.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/deepmusic/musicdata.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/deepmusic/modules/batchbuilder.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/deepmusic/modulemanager.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/utils.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/deepmusic/modules/decoder.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/deepmusic/songstruct.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/docs/ideas.md",
+		"/C/Users/black mogus/Desktop/新建文件夹/MusicGenerator-master/deepmusic/modules/batchbuilder.py",
+		"/C/Users/black mogus/Desktop/python/MusicGenerator-master/deepmusic/modules/loopprocessing.py",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/Block/BlockReference.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/IO/PrefabImporter.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/MapLoader/MapExporter.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/MapLoader/MapImporter.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/Select/LoadClickHandler.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/UI/InputPanel.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/ShowBlockWhenMoving.cs",
+		"/F/github repository/map/map0.1/MapEditor0.1/Assets/Terrain Editor/Scripts/CreateTestMap.cs",
+		"/C/Users/black mogus/Desktop/HTML/index.html",
+		"/C/Users/black mogus/Desktop/新建文本文档.html",
+		"/E/跑团开发/eventmanager/EventManager/Listener/MouseListener.cs",
+		"/E/跑团开发/eventmanager/EventManager/Handler/EventHandler.cs",
+		"/E/跑团开发/eventmanager/EventManager/Listener/DragListener.cs",
+		"/E/跑团开发/eventmanager/EventManager/Handler/DragPictureHandler.cs",
+		"/E/跑团开发/eventmanager/EventManager/Events/Events.cs",
+		"/F/github repository/map/maptest - 副本/Assets/script/DragPicture.cs",
+		"/E/跑团开发/eventmanager/EventManager/Handler/ClickHandler.cs",
+		"/F/github repository/map/maptest - 副本/Assets/script/UIBehavior.cs",
+		"/F/github repository/map/maptest - 副本/Assets/script/ClickManager.cs",
+		"/F/github repository/map/maptest - 副本/Assets/script/GetPicMoudle.cs",
+		"/F/github repository/map/maptest - 副本/Assets/script/Cameratest.cs",
+		"/E/跑团开发/eventmanager/EventManager/Listener/MouseListener.cs.meta",
+		"/E/跑团开发/eventmanager/EventManager/Handler/EventHandler.cs.meta",
+		"/C/Users/black mogus/Desktop/python/test.py",
+		"/C/Users/black mogus/Desktop/新建文件夹/test2.py",
+		"/C/Users/black mogus/Desktop/htm/a.jsp",
+		"/C/Users/black mogus/Desktop/htm/css/index.css",
+		"/C/Users/black mogus/Desktop/htm/css/mother.css",
+		"/C/Users/black mogus/Desktop/htm/index.html",
+		"/H/html5/web/index.html",
+		"/C/Users/black mogus/Desktop/新建文件夹/cpts_467_tq/index.html",
+		"/C/Users/black mogus/Desktop/writting.html",
+		"/C/Users/black mogus/Desktop/review.html",
+		"/C/Users/black mogus/Desktop/upload_file.php",
+		"/C/Users/black mogus/Desktop/upload.html",
+		"/C/Users/black mogus/Desktop/HTML/a.html",
+		"/C/Users/black mogus/Desktop/HTML/upload_file.php",
+		"/C/Users/black mogus/Desktop/大三下课/WEB编程/exercise1.htm",
+		"/C/Users/black mogus/Desktop/website/homework.html",
+		"/G/PHPwamp/PHPWAMP_IN1/wwwroot/index.php",
+		"/G/PHPwamp/PHPWAMP_IN1/wwwroot/index.html",
+		"/G/SUBLIMETEXT/Sublime Text3/Data/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+		"/G/SUBLIMETEXT/Sublime Text3/Data/Packages/User/ColorPicker.sublime-settings",
+		"/G/SUBLIMETEXT/Sublime Text3/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/G/PHPwamp/PHPWAMP_IN1/wwwroot/404.html",
+		"/C/Users/black mogus/Desktop/website/picture.css",
+		"/C/Users/black mogus/Desktop/website/新建文本文档.css",
+		"/C/Users/black mogus/Desktop/homework.html",
+		"/C/Users/black mogus/Desktop/作业/创新/老友记老年平2台.html",
+		"/C/Users/black mogus/Desktop/作业/创新/老友记老年平台.html",
+		"/C/Users/black mogus/Desktop/【养老app】养老app下载_养老app排行.html",
+		"/C/Users/black mogus/Desktop/index2.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"",
+			"index.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ClickEvent",
+			"RootHandler",
+			"handle",
+			"this",
+			"this.handle",
+			"AimEvent",
+			"RootHandler",
+			"roothandle",
+			"RaycastHit",
+			"default",
+			"thisevent",
+			"rootevent",
+			"RemoveClone",
+			"fileContent",
+			"inputfile",
+			"svg",
+			"inputfile",
+			"fileContent",
+			"http://i1.hdslb.com/bfs/face/983034448f81f45f05956d0455a86fe0639d6a36.jpg",
+			"fileContent",
+			"center",
+			"http://i1.hdslb.com/bfs/face/983034448f81f45f05956d0455a86fe0639d6a36.jpg",
+			"center",
+			"选择",
+			"select",
+			"path",
+			"resources",
+			"fb",
+			"pre",
+			"prf",
+			"prfb",
+			"resources",
+			"path",
+			"resources.load",
+			"resources",
+			"InitializeDatabaseConnection",
+			"asp-page",
+			"site",
+			"site2",
+			"site",
+			"Site1",
+			"site1.css",
+			"site1",
+			"scripts",
+			"getElementsByName",
+			"Scripts",
+			"children",
+			"body",
+			"html",
+			"a.post",
+			"header-wra",
+			"post-edit-link",
+			"webmatrix.webdata",
+			"webmatrix",
+			"webpage.base",
+			"WebSecurity",
+			"data_dir",
+			"self.data_dir",
+			"data_path",
+			"self.data_dir",
+			"dirpath",
+			"./data",
+			"self.data_dir",
+			"input_fname_pattern",
+			"data_dir",
+			"self.data_dir",
+			"data_dir",
+			"dirpath",
+			"data_dir ",
+			"requests",
+			"dataset",
+			"ticks_per_beat",
+			"store_true",
+			"--reset",
+			"removing",
+			"_get_scale",
+			"get_test_modes",
+			"Composer.TestMode.ALL",
+			"No previous model found,",
+			"Composer.TestMode.ALL",
+			" Composer.TestMode.ALL",
+			"_main_test",
+			"TRAINING_VISUALIZATION_DIR",
+			"progression",
+			"joplin",
+			"jo",
+			"1000-",
+			"1000",
+			"train-1000",
+			"concat",
+			"1000",
+			"1000-train",
+			"_main_test",
+			"epoch",
+			"num_epochs",
+			"epoch",
+			"ratio_dataset",
+			"epoch",
+			"!!!!",
+			"epoch",
+			"22222222222222222",
+			"initiator",
+			"rename_files",
+			"utils",
+			"convert_midi2mp3",
+			"BatchBuilder",
+			"batch",
+			"num_layers",
+			"get_input_dim",
+			"argparse",
+			"_parse_args",
+			"loss_fct",
+			"RelativeBatch",
+			"test",
+			"batch_size",
+			"RelativeBatch",
+			"gen_next_samples",
+			"!",
+			"Loaded:",
+			"get_list",
+			"train_set",
+			"test",
+			"Subsampling",
+			"build_module",
+			"get_list",
+			"num_layers",
+			"get_batches",
+			"initialize_all_variables"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "BeginSetting.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"block",
+				"Block\\BlockReference.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 436.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
