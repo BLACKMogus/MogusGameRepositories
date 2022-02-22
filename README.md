@@ -6,7 +6,7 @@ THE-GAME：
 
 缺点：尽管是自由输入，但是是基于条件分支的方式，有些地方还是不够自由，希望以后有机会通过NLP的技术实现自由的对话效果
 
-![1](F:\MogusGames\MogusGameRepositories\APK\THE-GAME\1.jpg)
+![1](\APK\THE-GAME\1.jpg)
 
 
 
