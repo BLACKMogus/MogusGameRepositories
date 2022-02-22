@@ -1,0 +1,42 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="playername">
+			<method name="ButtonConfirm"/>
+		</type>
+		<type fullname="Savegame">
+			<method name="ButtonContinue"/>
+			<method name="ButtonSeve"/>
+		</type>
+		<type fullname="daykeysister">
+			<method name="ButtonBeginmusic"/>
+			<method name="ButtonKeysister"/>
+			<method name="ButtonStopmusic"/>
+		</type>
+		<type fullname="talkframe">
+			<method name="ButtonDispearArrow"/>
+			<method name="ButtonShowTheWord"/>
+		</type>
+		<type fullname="day1gate">
+			<method name="ButtonChooseGateAnswer"/>
+		</type>
+		<type fullname="day1class">
+			<method name="ButtonChooseClassroomAnswer"/>
+		</type>
+		<type fullname="day1canteen">
+			<method name="ButtonChoseCanteen"/>
+		</type>
+		<type fullname="day1sport">
+			<method name="ButtonChooseAnswer"/>
+		</type>
+		<type fullname="day2coffee">
+			<method name="ButtonCoffee"/>
+		</type>
+		<type fullname="afterclass">
+			<method name="ButtonBook"/>
+		</type>
+		<type fullname="movescene">
+			<method name="ButtonNextScene"/>
+			<method name="reloadscene"/>
+		</type>
+	</assembly>
+</linker>

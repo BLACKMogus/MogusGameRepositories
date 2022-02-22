@@ -1,0 +1,55 @@
+﻿#pragma once
+
+#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+#include <stdint.h>
+
+// UnityEngine.Material
+struct Material_t193706927;
+
+#include "mscorlib_System_Object2689449295.h"
+#include "UnityEngine_UnityEngine_Color2020392075.h"
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// DG.Tweening.ShortcutExtensions/<>c__DisplayClass11c
+struct  U3CU3Ec__DisplayClass11c_t1791614851  : public Il2CppObject
+{
+public:
+	// UnityEngine.Color DG.Tweening.ShortcutExtensions/<>c__DisplayClass11c::to
+	Color_t2020392075  ___to_0;
+	// UnityEngine.Material DG.Tweening.ShortcutExtensions/<>c__DisplayClass11c::target
+	Material_t193706927 * ___target_1;
+
+public:
+	inline static int32_t get_offset_of_to_0() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass11c_t1791614851, ___to_0)); }
+	inline Color_t2020392075  get_to_0() const { return ___to_0; }
+	inline Color_t2020392075 * get_address_of_to_0() { return &___to_0; }
+	inline void set_to_0(Color_t2020392075  value)
+	{
+		___to_0 = value;
+	}
+
+	inline static int32_t get_offset_of_target_1() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass11c_t1791614851, ___target_1)); }
+	inline Material_t193706927 * get_target_1() const { return ___target_1; }
+	inline Material_t193706927 ** get_address_of_target_1() { return &___target_1; }
+	inline void set_target_1(Material_t193706927 * value)
+	{
+		___target_1 = value;
+		Il2CppCodeGenWriteBarrier(&___target_1, value);
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif

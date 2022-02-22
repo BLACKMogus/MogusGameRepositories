@@ -1,0 +1,4 @@
+Base path: 'G:/visualcode/Microsoft VS Code/2021.1.18f1c1/Editor/Data', plugins path 'G:/visualcode/Microsoft VS Code/2021.1.18f1c1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: shutdown
